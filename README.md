@@ -1,2 +1,2 @@
 # imageCollections
-Store pictures
+Just store pictures
